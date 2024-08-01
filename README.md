@@ -1,2 +1,2 @@
-# Projeto-Starbucks.io
- desenvolvimento de habilidades iniciais
+# Projeto-Starbucks
+Recriando o site do Starbucks para aprendizagem.
